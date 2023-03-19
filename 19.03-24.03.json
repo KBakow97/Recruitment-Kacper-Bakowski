@@ -1,0 +1,45 @@
+{
+  "19.03": [
+    {
+      "name": "Kacper Dump",
+      "start_time": "22:40",
+      "end_time": "22:40"
+    },
+    {
+      "name": "Kacper Dump",
+      "start_time": "15:45",
+      "end_time": "15:45"
+    },
+    {
+      "name": "Olan",
+      "start_time": "20:30",
+      "end_time": "20:30"
+    }
+  ],
+  "20.03": [
+    {
+      "name": "Adam B",
+      "start_time": "17:40",
+      "end_time": "17:40"
+    },
+    {
+      "name": "Ola",
+      "start_time": "19:30",
+      "end_time": "19:30"
+    },
+    {
+      "name": "Kacper",
+      "start_time": "21:10",
+      "end_time": "21:10"
+    },
+    {
+      "name": "Paweł",
+      "start_time": "22:20",
+      "end_time": "22:20"
+    }
+  ],
+  "21.03": [],
+  "22.03": [],
+  "23.03": [],
+  "24.03": []
+}
