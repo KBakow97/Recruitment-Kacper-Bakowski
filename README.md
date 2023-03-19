@@ -8,11 +8,11 @@ The program prompt user what to do:
 * Exit
 
 I didn't use any additional libraries other than those implemented directly in python, like :
--datetime
--os
--os.path
--csv
--json
+* datetime
+* os
+* os.path
+* csv
+* json
 
 Examples:
 
