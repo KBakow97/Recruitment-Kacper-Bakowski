@@ -1,11 +1,11 @@
 In this project I've create options that allows user to make a reservation for a tennis court.
 
 The program prompt user what to do:
--Make a reservation
--Cancel a reservation
--Print schedule
--Save schedule to a file
--Exit
+* Make a reservation
+* Cancel a reservation
+* Print schedule
+* Save schedule to a file
+* Exit
 
 I didn't use any additional libraries other than those implemented directly in python, like :
 -datetime
