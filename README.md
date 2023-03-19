@@ -143,10 +143,20 @@ Thanks for using our program!
 
 
 When user add wrong data or option is looped back to menu with information what is wrong.
+
+Creating reservation checks if user have on his name to many reservations in this week and block him if he does.
+
+You cant use past dates, program will redirect you to the menu with information.
+
+The same resoult will be when you use for end_date date that is earlier than start_date.
+
 In OOP I've created only 2 metods because i thought it will be enought.
 I also split the functions into different files to make them easier to read and understand.
 
 I hope that the work I have done is satisfactory and I look forward to further contact.
+I will try to use the remaining time to create tests, but I hope that the lack of them does not rule out my candidacy.
+
+
 Kacper Bąkowski
 
 
